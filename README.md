@@ -44,33 +44,55 @@ To ensure efficient task management and expertise utilization, the project is di
 Each team collaborates closely to ensure seamless integration of their work towards the common project goals.
 
 ## Week-by-Week Task Breakdown
-
-### Week 1: Project Kickoff & Background Research
+### Week 1: Project Kickoff & Background Review
 
 **Goals:**
-- Understand project scope, objectives, and timeline.
-- Assign roles and establish communication channels.
+- Align all teams on the current project status and objectives for the semester.
+- Review existing literature summaries from each team and identify areas requiring deeper understanding or further exploration.
+- Establish clear roles, responsibilities, and communication protocols.
 
 **Tasks:**
 
 1. **Organize Kickoff Meeting**
    - **Team:** All Teams
-   - **Description:** Schedule and conduct the kickoff meeting to discuss project goals, milestones, tools, and data access procedures.
-   
-2. **Set Up Version Control & Communication Channels**
-   - **Team:** Feature Extraction Team
-   - **Description:** Create a GitHub repository for code, notebooks, and documentation. Set up a shared folder (e.g., Google Drive) and communication channels (e.g., Slack).
+   - **Description:** Conduct a meeting to:
+     - Provide an overview of the project progress to date.
+     - Recap key findings from last semester’s work.
+     - Outline this semester’s goals and timeline.
+     - Assign roles and responsibilities to each team.
+   - **Deliverable:** Meeting notes summarizing roles, objectives, and milestones.
 
-3. **Assign Background Reading**
-   - **Team:** Neuroscience Team & Feature Extraction Team
-   - **Description:**
-     - **Neuroscience Team:** Read introductory EEG references (e.g., chapters 1–2 of *“EEG Signal Processing”*) and summarize key points.
-     - **Feature Extraction Team:** Read overviews of Music Information Retrieval tasks (e.g., chapters from *“Music Information Retrieval: Concepts, Techniques, and Applications”*) and summarize relevant content.
-     - **AI/ML Team:** Find and summarize 2–3 papers on EEG + music research from IEEE or relevant journals.
-
-4. **Conduct Group Discussion**
+2. **Review Existing Literature Summaries**
    - **Team:** All Teams
-   - **Description:** Share summaries from background readings and upload them to the shared repository.
+   - **Description:** Each team reviews the literature summaries they prepared last semester and identifies:
+     - Key methodologies or findings directly relevant to their tasks.
+     - Gaps or unclear areas that require further exploration.
+     - Actionable insights for feature extraction, neuroscience analysis, or AI/ML modeling.
+   - **Deliverable:** A short document or slide deck summarizing the most relevant insights and any new papers to investigate.
+
+3. **Assign Follow-Up Readings**
+   - **Team:** Neuroscience Team, Feature Extraction Team, AI/ML Team
+   - **Description:**
+     - Use the literature review documents to assign specific follow-up readings to address gaps or deepen understanding in key areas.
+     - **Neuroscience Team:** Focus on advanced preprocessing methods and artifact removal strategies.
+     - **Feature Extraction Team:** Investigate recent developments in audio feature extraction for music analysis.
+     - **AI/ML Team:** Explore new modeling techniques for integrating EEG and audio features (e.g., multimodal learning frameworks).
+   - **Deliverable:** A shared document listing assigned readings and their rationale.
+
+4. **Update and Organize the Repository**
+   - **Team:** Feature Extraction Team
+   - **Description:** Ensure the GitHub repository reflects the current project structure and includes:
+     - Last semester’s code, data, and documentation.
+     - A README file summarizing current progress and goals for this semester.
+   - **Deliverable:** Updated GitHub repository with organized folders and a clear README.
+
+5. **Establish Communication and Workflow Protocols**
+   - **Team:** All Teams
+   - **Description:**
+     - Confirm communication channels (e.g., Slack, email).
+     - Agree on meeting schedules and reporting frequency.
+     - Clarify how tasks will be assigned and tracked (e.g., using GitHub issues or a task management tool like Jira).
+   - **Deliverable:** A document or shared space summarizing the agreed-upon protocols.
 
 ---
 
