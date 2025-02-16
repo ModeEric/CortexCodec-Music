@@ -10,7 +10,7 @@ Welcome to Week 1 of the CortexCodec Research Projects! This week, our primary g
    - **Clone the Repository & Install Dependencies:**
      - Clone the CortexCodec repository:  
        ```bash
-       git clone https://github.com/your_org/CortexCodec.git
+       git clone https://github.com/ModeEric/CortexCodec-Music.git
        ```
      - Create a Python virtual environment (e.g., using Conda):
        ```bash
