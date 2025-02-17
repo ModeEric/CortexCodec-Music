@@ -18,11 +18,7 @@ Welcome to Week 2 of the CortexCodec Research Projects! This week, we will build
    - **Organize Preprocessed Data:**
      - Create a new directory `preprocessed/` in the dataset folder where all filtered and cleaned EEG data will be stored.
      - Write a brief summary (`Preprocessing_Steps.md`) explaining the filters and techniques applied, including references to relevant literature.
-   
-3. **Team Check-In:**
-   - **Project Update:**
-     - Post an update in the #project-updates channel summarizing your Week 1 outcomes and outlining your plans for Week 2.
-     - Highlight any challenges or insights discovered so far and coordinate next steps with your teammates.
+
 
 ---
 
