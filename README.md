@@ -1,16 +1,10 @@
 # CortexCodec Research Projects
 
-Welcome to the CortexCodec research repository. In this repository, we explore three interconnected research tasks using a shared EEG dataset. Each task leverages EEG data to advance our understanding of the neural correlates of music perception and cognition. The projects are as follows:
-
-1. **Predicting Engagement from EEG Signals**
-2. **Decoding Musical Content from EEG Signals**
-3. **Comparative Analysis of Models Trained on Engineered EEG Features vs. Raw EEG Data**
-
----
+Welcome to the CortexCodec research repository. In this repository, we explore three interconnected research tasks using a shared EEG dataset. Each task leverages EEG data to advance our understanding of the neural correlates of music perception and cognition.
 
 ## Common Dataset Information
 
-All projects utilize the same EEG dataset originally collected for a Brain-Computer Music Interface study. This dataset comprises recordings from 19 healthy participants who were instructed to modulate the tempo of a musical piece via motor imagery tasks. The data is formatted according to the BIDS standard, with each 20-second segment corresponding to a music clip, sampled at 1 kHz. For full dataset details, please refer to the [OpenNeuro Dataset ds002720 (v1.0.1)](https://openneuro.org/datasets/ds002720/versions/1.0.1).
+All projects now utilize the EEG dataset from **ds002722**, originally collected for the Brain-Computer Music Interface for Monitoring and Inducing Affective States (BCMI-MIdAS) study. This dataset comprises recordings from 19 healthy adult participants who listened to 40-second music clips generated in real-time by a synthetic music generator. During each trial, the music was designed to target specific affective states (defined by valence and arousal), with the first 20 seconds corresponding to one target state and the remaining 20 seconds to a second target state. The data, formatted according to the BIDS standard, were recorded at a sampling rate of 1 kHz. For full dataset details, please refer to the [OpenNeuro Dataset ds002722](https://openneuro.org/datasets/ds002722).
 
 ---
 
@@ -73,4 +67,4 @@ Comparing different modeling approaches can reveal insights into the underlying 
 
 ---
 
-*CortexCodec Team*
+*The CortexCodec Team*
