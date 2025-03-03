@@ -1,0 +1,17 @@
+Best,
+Sam
+
+/sub-01/eeg = all files for 1 out of 19 subjects
+
+/sub-01/eeg...
+/task-run1 = 1 out of 5 "runs"
+
+.../task-run1/...
+channels.tsv = list of all EEG channels
+eeg.edf = raw eeg data
+eeg.json = additional recording methods
+events.json = trial types and music list
+events.tsv = specific trial type and played music with onset
+
+/stimuli = all generated piano clips
+
